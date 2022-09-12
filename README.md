@@ -2,7 +2,7 @@
 
 - Simple Android/iOS App using Flutter for displaying news.
 
-![](https://github.com/mohamedXashraf/news-feed-flutter/blob/master/banner.png?raw=true)
+![](https://github.com/mohamedXashraf/news-feed-flutter/blob/master/banner.jpg?raw=true)
 
 - Topics:
   * Clean Architecture: 3 Layers : (Presentation, Domain, Data) Layers.
