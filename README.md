@@ -1,16 +1,17 @@
-# news_feed
+# News Feed
 
-A new Flutter project.
+- Simple Android/iOS App using Flutter for displaying news.
 
-## Getting Started
+![](https://github.com/mohamedXashraf/news-feed-flutter/blob/master/banner.png?raw=true)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Topics:
+  * Clean Architecture: 3 Layers : (Presentation, Domain, Data) Layers.
+  * Presentation Layer:
+    * Flutter Widgets.
+    * MVI Presentation Architecture Pattern.
+  * Domain Layer:
+    * UseCases.
+  * Data Layer:
+    * Repository.
+    * Models.
+    * APIs: Dio.
